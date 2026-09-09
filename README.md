@@ -3,7 +3,20 @@
 AutoLegal is an AI-powered web application designed to simplify and automate the creation, review, and management of legal documents. The system combines Generative AI and Retrieval-Augmented Generation (RAG) to generate context-aware legal documents based on user-provided information and relevant legal knowledge.
 
 The platform supports document generation, lawyer review, PDF downloads, role-based access, and document history management.
-![Uploading Screenshot 2026-03-13 165248.png…]()
+PROJECT PREVIEW
+## 📸 Project Previews
+
+
+![Dashboard](./Screenshot%202026-03-13%20165248.png)
+
+
+![Employee Management](./Screenshot%202026-03-13%20174527.png)
+
+
+![Analytics](./Screenshot%202026-03-13%20170313.png)
+
+
+![Login](./Screenshot%202026-01-03%20142536.png)
 
 
 🌐 Live Demo -🔗 AutoLegal: https://autolegal-drafting-system-frontend.vercel.app
